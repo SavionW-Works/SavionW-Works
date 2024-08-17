@@ -1,7 +1,12 @@
-Hi! I’m **Savion Watson**, a Computer Science graduate from the _College of Staten Island_ through the Macaulay Honor’s Scholarship. 
+👋 Hello! I am **Savion Watson**, an apiring  Web Developer with a Computer Science degree from the _College of Staten Island_ through the Macaulay Honor's scholarship. 
 
-I started programming in a three-year software engineering intensive from High School. I also worked in my high school's IT department and as a tutor for my college. 
+💻 I mostly concentrate in Full-Stack Web Development, particularly front-end with **JavaScript**, **HTML**, **CSS**, **React**, **Bootstrap** and **Webflow**.
+<br> I also passionate about Data Science with Python and Sci-Kit learn, and Game Development with Unity.
 
-I have experience in **React**, **Bootstrap5**, **Unity**, **Python**, **Javascript**, and **C++** . 
+💼 I have interned at [Kinkofa](https://kinkofa.com/) and the **Selective Corporate Internship Program** creating personalized websites to help promote their brands.  
 
-I specialize in Web Development, but am also passionate for Data Science and Game Development.  
+📖 I love learning new things by reading self-help **books** and watching video essays about **tech history**. I also enjoy **cycling** and playing retro video games.
+
+⭐ I am currently looking for full or part-time **Software Engineering** roles, particularly in Full-stack and its comprised Front-end or Back-end roles.
+
+Feel free to contact me via LinkedIn or my email and puruse my projects.
